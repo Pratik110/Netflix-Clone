@@ -342,8 +342,9 @@ footer .questions {
         padding: 75px 0;
     }
 
-    .footer-item{
-        align-items: center;
+    .footer-item {
+        display: flex;
+        flex-direction: column;
     }
  
     .footer {
