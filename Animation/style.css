@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Martel+Sans:wght@600&family=Poppins:wght@300;400;700&display=swap');
+
+.download-icon {
+    padding: 10px;
+    height: 80px;
+    width: 80px;
+    background: url("https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/download-icon.gif");
+    background-repeat: no-repeat;
+}
+
+.show-details{
+    display: flex;
+}
+
+.download-shows {
+    background-color: black;
+    border-radius: 10px;
+    border: 2px solid yellow;
+    width: 300px;
+    height: 90px;
+    display: flex;
+    padding: 5px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.album-art {
+    height: 70px;
+}
+
+.title{
+    color: white;
+    font-family: 'Poppin', sans-serif;
+    margin-left: 20px;
+    font-size: 12px;
+    padding: 0;
+}
+
+.show-details {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.download {
+    color: #0071eb;
+}
